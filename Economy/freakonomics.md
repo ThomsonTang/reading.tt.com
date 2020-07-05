@@ -1,3 +1,4 @@
+# Freakonomics (魔鬼经济学)
 
 ## 人名卡： 史蒂芬·列维特
 
@@ -13,5 +14,5 @@
 - 例子：学校的考试成绩作弊、托儿所家长迟到、日本相扑运动的腐败、房地产经纪人的买卖等。
 - 出处：[Freakonomics - Wikipedia][2]
 
-[1]:	https://en.wikipedia.org/wiki/Steven_Levitt
-[2]:	https://en.wikipedia.org/wiki/Freakonomics
+[1]: https://en.wikipedia.org/wiki/Steven_Levitt
+[2]: https://en.wikipedia.org/wiki/Freakonomics
