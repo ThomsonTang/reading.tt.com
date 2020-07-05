@@ -1,6 +1,6 @@
 # Principles: Life and Work
 
-![Principles](https://img3.doubanio.com/view/subject/l/public/s29643861.jpg)
+![Principles](<https://img3.doubanio.com/view/subject/l/public/s29643861.jpg> | width=50)
 
 ## 关于作者-人名卡
 
