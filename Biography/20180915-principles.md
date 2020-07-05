@@ -1,6 +1,6 @@
 # Principles: Life and Work
 
-![Principles](<https://img3.doubanio.com/view/subject/l/public/s29643861.jpg> | width=50)
+<img src="https://img3.doubanio.com/view/subject/l/public/s29643861.jpg" width="80">
 
 ## 关于作者-人名卡
 
@@ -8,7 +8,7 @@
 - 印象：初次听到此人的大名还是在「得到」《李翔知识内参》的一期音频中，因被称之为「投资界的 Steve Jobs」而格外引起了我的留意。他创办的[桥水基金](https://www.bridgewater.com/)更是金融投资界赫赫有名的公司之一，而且此人的创业征途也充满着传奇色彩，当然被国人熟知还是因为他的[《原则》](https://item.jd.com/12257413.html "Principles")一书。
 - 例子：
   - [BridgeWater](https://www.bridgewater.com/)
-  - 《Principles》
+  - [《Principles》](https://book.douban.com/subject/27608239/)
 - 出处：
   - [Ray Dalio - Wikipedia](https://en.wikipedia.org/wiki/Ray_Dalio)
 
